@@ -1,0 +1,81 @@
+/* Step-2 add a text-align that will align items in the center.  */
+body{
+    background-image: url(./gif-hypnotique-002.gif);
+}
+input {
+    height: 25px;
+    width: 90%;
+   
+}
+.main-bottom-section {
+    margin-top: 40px;
+    text-align: center;
+
+    /* alignment property */
+  }
+  
+  /* Step-2 Add a width, height and display property to make these containers look like the design. */
+  .item {
+     /*width*/
+      /*height*/
+      /*display*/
+      margin: 0 20px 30px;
+      background: black;
+      margin-bottom: 30px;
+      width: 50%;
+      height: 8rem;
+      display: inline-block;
+  }
+  
+  /* Step-2 Add a width, height, and margin property to make these containers look like the design. Remember margin: auto is helpful when trying to center a container. */
+  .full-width-item {
+      /*width*/
+      /*height*/
+      /*margin*/
+      margin:0 auto 30px;
+      background: #a90808;
+      width:80%;
+      height: 50%;
+      margin: 150px	;
+  }
+  
+  /* Step-2 Add a width, height, and margin property to make these containers look like the design. Remember margin: auto is helpful when trying to center a container. */
+  .large-item {
+      /*width*/
+      /*height*/
+      /*margin*/
+      background: b;
+      width: 72rem;
+      height: 50rem;
+      margin: 10rem;
+  }
+  .itemicon{
+    margin-bottom: 30px;
+    width: 100%;
+    height: 33rem;
+    display: inline-block;
+  }
+  .hello{
+    margin-bottom: 30px;
+    width: 90%;
+    height: 33rem;
+    display: inline-block;
+  }
+  h1{
+    margin: 0 470px 0 470px;
+    color: bisque;
+    font-size: 10rem;
+  }
+  h2{
+    margin: 0 120px 0 120px;
+    color: bisque;
+    font-size: 10rem;
+  }
+  #my{
+    height: 100%;
+    width: 100%;
+    color: blue;
+  }
+  #button{
+    color: brown;
+  }
